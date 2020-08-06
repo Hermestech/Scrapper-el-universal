@@ -1,0 +1,10 @@
+noticia_principal = //h2[@class="ce9-Tipo1_Titulo"]/a/@href
+
+notas_ restantes = //h2[@class="ce3-Tipo1_Titulo"]/a/@href
+
+Titulo : //h1[@class="h1"]/text()'
+
+Resumen : 
+
+cuerpo : //div[@class="field field-name-body field-type-text-with-summary field-label-hidden"]/p/
+

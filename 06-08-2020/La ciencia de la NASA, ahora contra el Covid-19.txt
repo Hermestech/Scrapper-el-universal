@@ -1,0 +1,41 @@
+La ciencia de la NASA, ahora contra el Covid-19
+
+Supercomputadoras, astrobiólogos, psicólogos, científicos e ingenieros buscan resolver dudas sobre el virus, así como tratamientos y herramientas para frenar su propagación
+
+
+
+es un monstruo alimentado por billones de operaciones por segundo que le ayudan a simular los movimientos de masas de aire y agua alrededor de la Tierra, buscar exoplanetas o estudiar el comportamiento de los agujeros negros. La supercomputadora de la 
+forma parte del Proyecto High-End Computing Capability (HECC) y representa la tecnología de punta de la agencia espacial, que a raíz de la 
+tiene una nueva misión: ayudar a resolver algunas de las preguntas que siguen rondando al 
+, desde cómo interactúa el virus con cada una de las células del cuerpo humano hasta la detección de los factores de riesgo genéticos de la enfermedad o el diseño de posibles fármacos.
+ Los mismos científicos de la NASA que estudian la biología en el espacio ahora se encargan de identificar biomarcadores y secuenciar materiales genéticos en un juego de probabilidades medido en teraflops, que sólo estos monstruos amigables de la computación pueden ejecutar. Hasta ahora las supercomputadoras de la NASA apoyan más de 70 proyectos.
+
+Las leyes físicas y químicas utilizadas a gran escala para entender la grandeza del universo también son útiles para acercarse al nivel atómico de las reacciones moleculares del feroz virus. Científicos del Programa de Astrobiología de la NASA están aplicando sus habilidades para desarrollar tratamientos contra el Covid-19.
+
+Uno de estos esfuerzos gira alrededor del trabajo de la profesora Rachel Martin, investigadora principal del programa de 
+. Su equipo se encarga de estudiar la supervivencia de los microbios en ambientes muy fríos para tratar de entender cómo podría darse la vida en los océanos subterráneos de las lunas heladas, ¿pero cómo ayuda este tipo de investigaciones en la lucha contra el Covid-19? La respuesta está en las 
+.
+ Las enzimas son moléculas orgánicas que actúan como catalizadores de reacciones químicas. Su acción al romper los enlaces peptídicos de las proteínas para finalmente descomponer sus fragmentos, es una pieza clave para entender al 
+. En una célula sana, los genes le informan a la célula cómo producir proteínas específicas que se escriben en el ADN encontrado en el núcleo de la célula. Esos genes se transcriben en 
+, que deja el núcleo y se dirige a otra pieza de la maquinaria celular llamada ribosoma. “El ribosoma es como una pequeña impresora 3D para hacer proteínas funcionales”, explica Martin, en material proporcionado por la NASA.
+ Los 
+transportan ARN que imita el ARN de la célula, y el virus se hace cargo de la maquinaria celular para convertir su ARN en la poliproteína. Luego, la proteasa se mueve para cortar la poliproteína en trozos más pequeños que forman las proteínas virales. Lo que intentan los astrobiologos de la NASA es evitar que la proteasa principal del virus logre crear proteínas virales funcionales. Sin una proteasa, el virus solo produce una poliproteína larga y no funcional, que eventualmente es degradada por la célula. “Es como un PAC-MAN, pero podemos meter algo en su boca y entonces no puede hacer su trabajo”, explica Martin.
+ Esta estrategia ha tenido mucho éxito en el desarrollo de fármacos para otros tipos de infecciones virales, incluidos los virus de inmunodeficiencia humana (VIH). Si bien se trata de microrganismos muy diferentes, la apuesta es lograr desarrollar agentes terapéuticos específicos de inhibidores de proteasa con este acercamiento.
+ La búsqueda de fármacos continua, pero hay otras cuestiones imposibles de discriminar. Otra de las consecuencias de la pandemia es el largo aislamiento con el que los seres humanos  hemos tenido que lidiar y que al paso de los meses es más difícil de sobrellevar. Los expertos de la NASA son especialistas en el área. Decía la astronauta Jessica Meir que fue al regresar a la Tierra en abril (después de una misión de siete meses en la Estación Espacial), justo en medio de la pandemia, cuando realmente vivió lo que significaba la soledad. James Picano, responsable del entrenamiento psicológico de los astronautas en el Centro Espacial Johnson en Houston, Texas, ha señalado que el aislamiento social es una de las cosas que más les preocupa en los astronautas. La realidad cotidiana en medio de la pandemia es aún más compleja de sobrellevar.
+
+Más allá de imponerse con rigor una serie de nuevas rutinas, la falta de claridad sobre cuándo la vida podrá volver a la normalidad hace que esta condición sea mucho más difícil de abordar, pues no se trata de astronautas cuidadosamente seleccionados y entrenados para el aislamiento y aún ellos pueden tener problemas y secuelas por esta condición. “La imprevisibilidad causa más ansiedad y hace que el ritmo sea más difícil”. Las observaciones de los especialistas en esta área sirven para alimentar los programas que se diseñan para el manejo de la salud mental durante y después de la pandemia.
+
+La NASA ha lanzado varias convocatorias no sólo para resolver cuestiones de largo aliento, sino para responder a necesidades inmediatas de la pandemia. Hace cuatro meses, la NASA solicitó ideas a sus colaboradores para aprovechar su experiencia y capacidades para enfrentar a la pandemia. Durante las primeras dos semanas se recibieron 250 ideas, algunas de las  cuales ya se han vuelto una realidad.
+ Los ingenieros del Laboratorio de Propulsión a Chorro de la NASA en California diseñaron un 
+de alta presión concebido para tratar pacientes con Covid-19. Hace un par de meses, este dispositivo llamado 
+obtuvo la autorización de uso de emergencia por la Administración de Alimentos y Medicamentos en EU (
+). El objetivo es tratar a pacientes con síntomas menos graves para mantener el suministro de ventiladores tradicionales. La diferencia es que este dispositivo es de rápida fabricación y un mantenimiento más sencillo.
+
+También con la idea de mantener libres los equipos más limitados, el Centro de Investigación de Vuelo Armstrong de la NASA se asoció con el Hospital Antelope Valley para la creación de un casco de oxígeno para tratar a pacientes de Covid-19. Buscando las piezas más accesibles, su inspiración para el diseño fue una protección de plástico para prótesis de yeso de las que se utilizan para evitar mojar la pieza en la ducha.
+ Para los especialistas ha sido muy importante detectar los problemas cotidianos a los que se han enfrentado las unidades de salud. En este sentido,  se mejoró un dispositivo portátil de descontaminación que habían realizado hace un par de años ingenieros del Centro de Investigación Glenn de la NASA en Ohio en asociación con la compañía Ohio Emergency Products and Research. El económico artefacto utilizado para descontaminar ambulancias en menos de una hora fue mejorado con investigaciones adicionales para aumentar su efectividad frente al SARS-CoV-2.
+ Otro problema al que se han enfrentado los trabajadores de la salud es la necesidad de tener siempre disponible equipo de protección que garantice su seguridad. El Centro de Investigación Glenn de la NASA y los Hospitales Universitarios en Cleveland han colaborado para desarrollar nuevos métodos y tecnologías para descontaminar equipos de protección personal con aplicaciones aeroespaciales y en donde el oxígeno atómico y el ácido peracético se han convertido en alternativas para la esterilización y reúso de aditamentos.
+ Por otra parte, la NASA, la 
+(Agencia Espacial Europea) y la 
+(Agencia de Exploración Aeroespacial de Japón) han unido sus fuerzas para emplear sus datos satelitales de observación de la Tierra para documentar los cambios en el medio ambiente y la sociedad a raíz de la pandemia. En una colaboración sin precedentes, las tres agencias espaciales han creado el Panel de Observación de la Tierra Covid-19. El objetivo es ofrecer datos sobre cómo cambian ecosistemas específicos frente a menos actividad humana, pero también analizar cómo han funcionado la limitación de ciertos patrones de movimiento en las ciudades del mundo en relación con el control de la expansión del virus. Esto serviría para prevenir futuros brotes y otras pandemias para las que tendremos que estar más preparados.
+
+ 
